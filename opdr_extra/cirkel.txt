@@ -1,0 +1,7 @@
+Schrijf een programma dat uit de omtrek van een cirkel de oppervlakte bepaalt.
+Omtrek = 2 * pi * r
+Oppervlakte = pi * r * r
+
+Schrijf een programma dat vraagt om de straal, omtrek en oppervlakte van een cirkel.
+Indien een van deze grootheden niet bekend is wordt een 0 ingevoerd.
+Het programma berekent vervolgens de ontbrekende grootheden.
